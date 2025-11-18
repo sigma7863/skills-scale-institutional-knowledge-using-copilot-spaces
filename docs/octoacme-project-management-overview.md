@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+_Note: Additional roles including UX Designer, Technical Lead, Customer Support Lead, and DevOps/Infrastructure Engineer are documented in `octoacme-roles-and-personas.md`. See the `checklists/` folder for practical templates including role onboarding and release operations._
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
